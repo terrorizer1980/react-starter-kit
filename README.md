@@ -5,6 +5,7 @@
 <a href="https://discord.gg/2nKEnKq"><img src="https://img.shields.io/discord/643523529131950086?label=Chat&style=flat-square" height="20"></a>
 <a href="https://github.com/kriasoft/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
 <a href="https://twitter.com/koistya"><img src="https://img.shields.io/twitter/follow/koistya.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fterrorizer1980%2Freact-starter-kit?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fterrorizer1980%2Freact-starter-kit.svg?type=shield"/></a>
 
 The web's most popular front-end template for building web applications with
 [React](https://reactjs.org/), [Relay](https://relay.dev/), and
@@ -142,3 +143,6 @@ Copyright © 2014-present Kriasoft. This source code is licensed under the MIT l
 
 <sup>Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya), [blog](https://medium.com/@koistya))
 and [contributors](https://github.com/kriasoft/react-starter-kit/graphs/contributors).</sup>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fterrorizer1980%2Freact-starter-kit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fterrorizer1980%2Freact-starter-kit?ref=badge_large)
